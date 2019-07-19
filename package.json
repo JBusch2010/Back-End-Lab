@@ -1,0 +1,26 @@
+{
+  "name": "back-end-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBusch2010/Back-End-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JBusch2010/Back-End-Lab/issues"
+  },
+  "homepage": "https://github.com/JBusch2010/Back-End-Lab#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^7.11.0",
+    "superagent": "^5.1.0"
+  }
+}
